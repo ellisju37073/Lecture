@@ -8,7 +8,7 @@
     <title>Destroy all</title>
 </head>
 <body>
-    <h1>This page destroys all variables</h1>
+    <h1>This page destroys all variables in this webpage</h1>
     <?php 
     session_destroy()
     ?>
